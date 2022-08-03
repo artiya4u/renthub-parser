@@ -1,6 +1,6 @@
 # RentHub Parser
 
-A tool to parse renthub.in.th monthly rent apartment data to CSV data for importing pins to Google Maps.
+A tool to parse renthub.in.th monthly rent apartment data to CSV for importing pins to Google Maps.
 
 ## Usage
 
